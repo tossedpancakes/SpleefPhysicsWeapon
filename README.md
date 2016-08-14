@@ -1,4 +1,4 @@
 # SpleefPhysicsWeapon
-# Gravity Gun
+- Gravity Gun
 - Slowness Gun
--- Damage Gun
+- Damage Gun
