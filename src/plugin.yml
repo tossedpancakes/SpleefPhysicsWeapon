@@ -1,0 +1,7 @@
+name: SamPlugin
+version: 0.0.1
+main: me.tossedpancakes.SpleefPhysicsGun.SpleefPhysicsWeapon
+description: you will have cookie
+commands:
+  givecookie:
+    description: C 0 O k 1 3
